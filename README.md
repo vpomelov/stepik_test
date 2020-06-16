@@ -1,2 +1,2 @@
 # stepik_test
-https://stepik.org/lesson/187065/
+Ссылка на данный курс: https://stepik.org/lesson/187065/
